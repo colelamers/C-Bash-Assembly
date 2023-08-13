@@ -1,0 +1,27 @@
+what should we be taking notes on for the midterm and final now? 
+
+should we be taking notes on the highlighted words in the textbook?
+
+compiling in C:
+	Ex. gcc -g file.c -o fileExec
+	
+	gcc      = compiler call
+	-g       = add debugging ability to executable
+	file.c   = our file
+	-0       = creates an object file
+	fileExec = the executable containing our code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+gdb -tui executable: enables gui when debugging. you can also type ctrl+x+a while in gdb. ctrl+x+2 can help with viewing additional assembly info
+p, print: print
+b, break: breakpoint
+watch: any time a specified varibale is changed, it prints out it's values
+
+gdb --args executable arg1 arg2 arg3... : this will pass in all arguments to gdb

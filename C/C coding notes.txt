@@ -1,0 +1,20 @@
+atof(const char *str)
+	converts string into floating point double
+	
+atoi(const char *sr)
+	converts char string into an int
+	
+malloc()
+	creates memory on the heap if you run into a segmentation fault
+
+free()
+	pass in the malloc variable you declared to free that memory from the heap again
+
+strlen(char*)
+	gets the length of a char * (string)
+	
+sizeof(int)
+	gets the size of an int. for strings/char* see strlen()
+	
+scanf()
+

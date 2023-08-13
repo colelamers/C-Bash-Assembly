@@ -1,0 +1,9 @@
+compile:
+	gcc -o executable file.c
+	
+	-with debugger
+	gcc -g -o executable file.c
+	gcc -g file.c -o executable
+	
+	!- arg -o must preceed the executable
+	
